@@ -1,0 +1,115 @@
+.stones {
+    background-color: #1A1A1A;
+    padding-bottom: 82px;
+}
+
+.stones__banner {
+    color: #FFFFFF;
+    padding: 103px 565px 41px;
+}
+
+.stones_title {
+    text-align: center;
+}
+
+.stones_text {
+    color: var(--white, #FFF);
+    text-align: center;
+    font-family: Copperplate;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.shell-image {
+    margin: 0 auto;
+    display: block;
+}
+
+.application {
+    padding: 130px 0;
+    background: linear-gradient(180deg, #E8E5D5 49.17%, rgba(255, 255, 255, 0.00) 104.69%);
+}
+
+.item {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    justify-content: space-between;
+    padding-inline: 245px;
+    box-sizing: border-box;
+    column-gap: 211px;
+    margin-top: 229px;
+}
+
+.item__text {
+    color: var(--black, #000);
+    font-family: Copperplate;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.item__info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.content__wrapper {
+    margin: 0 auto;
+    width: 1064px;
+}
+
+.content__btn {
+    background: transparent;
+    border: none;
+    padding: 35px;
+}
+
+.content__title {
+    color: var(--black, #000);
+    font-family: Copperplate;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.content__details {
+    border-bottom: 5px solid rgba(0, 0, 0, 0.30);
+    padding-left: 16px;
+}
+
+.content__details:first-child {
+    border-top: 5px solid rgba(0, 0, 0, 0.30);
+}
+
+.content__flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.content__banner {
+    margin-top: 200px;
+}
+
+.content__text {
+    line-height: 32px;
+    font-size: 24px;
+    font-family: Copperplate;
+}
+
+.content__more {
+    height: 176px;
+    transition: all 0.5s ease-in;
+}
+
+.content__more--hidden {
+    height: 0;
+    opacity: 0;
+}
+.content__more--hidden p {
+    display: none;
+}

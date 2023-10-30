@@ -1,0 +1,36 @@
+header {
+    
+}
+
+.wrapper {
+    /* background: #FFFFFF; */
+}
+
+.services {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 65px;
+    align-items: center;
+    height: 103px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    column-gap: 35px;
+}
+
+.nav__link {
+    color: #0B0C12;
+    font-family: Copperplate;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: normal;
+    padding: 9px 15px;
+    text-decoration: none;
+}
+
+.nav__link:hover,
+.nav__link--selected {
+    color: #B1A086;
+}
