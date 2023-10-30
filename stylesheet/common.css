@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'Bickham script one';
+    src: url(../fonts/bickham-script-one.woff);
+}
 body {
     background-color: #FFFFFF;
     scroll-behavior: smooth;
