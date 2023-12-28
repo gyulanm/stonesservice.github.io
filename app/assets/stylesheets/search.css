@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans:opsz,wght@6..12,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans&display=swap');
+
+.quest {
+    background: #1E1E1F;
+    height: 1000px;
+}
+.quest__wrapper {
+    padding-top: 190px;
+    padding-left: 100px;
+}
+.form__input--large {
+    width: 630px;
+    margin-top: 35px;
+    box-sizing: border-box;
+}
+
+.form__inputt {
+    border: none;
+    border-bottom: 2px solid;
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Nunito Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    background: transparent;
+    margin-top: 101px;
+}
+
+.quest__subtitle {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 100px;
+    padding-top: 15px;
+}
+
+.quest_menu {
+    padding-left: 0;
+    column-gap: 45px;
+}
+.quest__foto {
+    margin-left: -29px;
+}
+.quest_menu .quest_common {
+    color: #FFF;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 400;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.quest {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

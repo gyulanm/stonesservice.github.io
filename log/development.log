@@ -1,0 +1,355 @@
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:45:07 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 2.3ms | Allocations: 1073)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 1334)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:45:07 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:45:08 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 2.3ms | Allocations: 1091)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 1352)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:45:08 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:48:49 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 18.6ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 111.2ms | Allocations: 3789)
+Completed 200 OK in 130ms (Views: 116.4ms | ActiveRecord: 0.0ms | Allocations: 7718)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:48:49 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:49:19 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 12.9ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 92.6ms | Allocations: 3804)
+Completed 200 OK in 121ms (Views: 101.5ms | ActiveRecord: 0.0ms | Allocations: 7733)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:49:19 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:49:40 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 31.7ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 110.4ms | Allocations: 3807)
+Completed 200 OK in 131ms (Views: 117.6ms | ActiveRecord: 0.0ms | Allocations: 7736)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:49:41 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:50:24 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 2.1ms | Allocations: 263)
+  Rendered layout layouts/application.html.erb (Duration: 7.2ms | Allocations: 1597)
+Completed 200 OK in 11ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 2369)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:50:24 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:50:26 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 2.7ms | Allocations: 1080)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 1344)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:50:26 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:50:37 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 3.6ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 29.8ms | Allocations: 3804)
+Completed 200 OK in 132ms (Views: 39.4ms | ActiveRecord: 0.0ms | Allocations: 7745)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:50:38 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:50:40 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 1.2ms | Allocations: 263)
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 1624)
+Completed 200 OK in 10ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 2397)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:50:40 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:50:57 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 2.8ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 22.7ms | Allocations: 3813)
+Completed 200 OK in 93ms (Views: 27.6ms | ActiveRecord: 0.0ms | Allocations: 7755)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:50:57 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:51:00 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 1.3ms | Allocations: 263)
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | Allocations: 1607)
+Completed 200 OK in 10ms (Views: 8.5ms | ActiveRecord: 0.0ms | Allocations: 2382)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:51:01 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:52:14 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 3.0ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 22.5ms | Allocations: 3774)
+Completed 200 OK in 138ms (Views: 30.5ms | ActiveRecord: 0.0ms | Allocations: 7704)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/application-55f6202b0a289aa6ffe98698d8bc6b73c27df6baed75133ac6799b8206b50284.css"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:52:41 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 6.4ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 28.8ms | Allocations: 3797)
+Completed 200 OK in 136ms (Views: 34.4ms | ActiveRecord: 0.0ms | Allocations: 7733)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:52:42 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:52:45 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 1.6ms | Allocations: 263)
+  Rendered layout layouts/application.html.erb (Duration: 10.5ms | Allocations: 1612)
+Completed 200 OK in 16ms (Views: 14.2ms | ActiveRecord: 0.0ms | Allocations: 2385)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:52:45 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:52:47 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 4.1ms | Allocations: 1079)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 1341)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:52:47 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:52:51 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 2.8ms | Allocations: 1080)
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 1343)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:52:51 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:54:16 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 3.3ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 19.5ms | Allocations: 3801)
+Completed 200 OK in 90ms (Views: 25.1ms | ActiveRecord: 0.0ms | Allocations: 7733)
+
+
+Started GET "/fonts/bickham-script-one.woff" for ::1 at 2023-12-29 00:54:17 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/fonts/bickham-script-one.woff"):
+  
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:55:18 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 3.7ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 25.2ms | Allocations: 3816)
+Completed 200 OK in 101ms (Views: 31.9ms | ActiveRecord: 0.0ms | Allocations: 7749)
+
+
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:55:22 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 1.4ms | Allocations: 263)
+  Rendered layout layouts/application.html.erb (Duration: 6.8ms | Allocations: 1612)
+Completed 200 OK in 11ms (Views: 9.3ms | ActiveRecord: 0.0ms | Allocations: 2426)
+
+
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:55:41 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 2.4ms | Allocations: 455)
+  Rendered layout layouts/application.html.erb (Duration: 17.9ms | Allocations: 3789)
+Completed 200 OK in 103ms (Views: 24.7ms | ActiveRecord: 0.0ms | Allocations: 7722)
+
+
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:55:44 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 1.5ms | Allocations: 263)
+  Rendered layout layouts/application.html.erb (Duration: 7.5ms | Allocations: 1615)
+Completed 200 OK in 12ms (Views: 10.2ms | ActiveRecord: 0.0ms | Allocations: 2429)
+
+
+Started GET "/pages/index.html" for ::1 at 2023-12-29 00:56:29 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 3.4ms | Allocations: 316)
+  Rendered layout layouts/application.html.erb (Duration: 8.6ms | Allocations: 1385)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms | Allocations: 1708)
+
+
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 00:56:38 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3.2ms | Allocations: 1083)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms | Allocations: 1347)
+
+
+Started GET "/pages/blog.html" for ::1 at 2023-12-29 00:56:53 +0300
+Processing by PagesController#blog as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/blog.html.erb within layouts/application
+  Rendered pages/blog.html.erb within layouts/application (Duration: 2.7ms | Allocations: 289)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 1354)
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 1671)
+
+
+Started GET "/pages/search.html" for ::1 at 2023-12-29 00:57:02 +0300
+Processing by PagesController#search as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/search.html.erb within layouts/application
+  Rendered pages/search.html.erb within layouts/application (Duration: 1.7ms | Allocations: 227)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 1295)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 1614)
+
+
+Started GET "/pages/stones.html" for ::1 at 2023-12-29 00:57:09 +0300
+Processing by PagesController#stones as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/stones.html.erb within layouts/application
+  Rendered pages/stones.html.erb within layouts/application (Duration: 1.3ms | Allocations: 221)
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 1295)
+Completed 200 OK in 8ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 1612)
+
+
+Started GET "/pages/index.html" for ::1 at 2023-12-29 01:10:55 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | Allocations: 1088)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 1351)
+
+
+Started GET "/pages/index.html" for ::1 at 2023-12-29 01:10:56 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 1097)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 1359)
+
+
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 01:11:06 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 1085)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 1346)
+
+
+Started GET "/pages/blog.html" for ::1 at 2023-12-29 01:11:33 +0300
+Processing by PagesController#blog as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/blog.html.erb within layouts/application
+  Rendered pages/blog.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3.2ms | Allocations: 1064)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 1325)
+
+
+Started GET "/pages/blog.html" for ::1 at 2023-12-29 01:52:02 +0300
+Processing by PagesController#blog as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/blog.html.erb within layouts/application
+  Rendered pages/blog.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | Allocations: 1088)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 1349)
+
+
+Started GET "/pages/promo.html" for ::1 at 2023-12-29 01:52:45 +0300
+Processing by PagesController#promo as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/promo.html.erb within layouts/application
+  Rendered pages/promo.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3.4ms | Allocations: 1067)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 1330)
+
+
